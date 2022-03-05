@@ -8,7 +8,7 @@
 
 public class Problem4 {
 
-    public void main(String[] args) {
+    public void main(String args[]) {
 
         List<string> list = new List<string>();
         list.append("hello");
