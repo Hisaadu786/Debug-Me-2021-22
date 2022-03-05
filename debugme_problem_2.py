@@ -18,6 +18,7 @@ EXPECTED OUTPUT
 N = 3;
 def rotateMatrix(matrix):
         i = N - 1;
+        J=i;
         while(i >0):
                 j = N - 1;
                 while(j > 0):
